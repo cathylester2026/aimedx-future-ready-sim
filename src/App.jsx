@@ -1,3 +1,4 @@
+console.log("github pages test");
 import React, { useMemo, useState } from "react";
 
 const RESOURCES = ["capital", "workforce", "time", "influence"];
